@@ -85,7 +85,7 @@ end
 def outro
   if $all_good
     puts ""
-    puts "Awesome! Your laptop is now ready for 9 weeks of hard work :)".green
+    puts "Awesome! Your laptop is now ready for 6 weeks of hard work :)".green
     puts "You can now help others and learn great tricks with terminal: http://cli.learncodethehardway.org/book/"
   else
     puts ""

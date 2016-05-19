@@ -25,7 +25,7 @@ You should see something like this:
 
 If not, **stop right away** and call a teacher.
 
-On Mac, open `Terminal > Preferences` and set the "Pro" theme as default in `Profiles` (*`Réglages`* in French).
+On Mac, open `Terminal > Preferences` and set the "Pro" theme as default in `Profiles`.
 
 ![](images/terminal-pro.png)
 

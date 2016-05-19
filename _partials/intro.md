@@ -1,6 +1,6 @@
 # Setup instructions
 
-The following instructions will help you to get ready for [Le Wagon](http://www.lewagon.org) fullstack bootcamp:
+The following instructions will help you to get ready for the [Pisano summer camp](http://kamp.pisano.co/):
 
 - Grab a text editor, where you'll spend your day and nights
 - Install a package manager
