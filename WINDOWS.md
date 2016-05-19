@@ -16,7 +16,7 @@ We will take off 40GB from your hard drive to give it to Linux. You need to acce
 
 If you are running Windows 8+, you need to disable Fast Startup :
 
-1. Right click -> Download this: [turn_off_fast_startup.bat](https://raw.githubusercontent.com/lewagon/setup/master/utils/turn_off_fast_startup.bat).
+1. Right click -> Download this: [turn_off_fast_startup.bat](https://raw.githubusercontent.com/Pisano/setup/master/utils/turn_off_fast_startup.bat).
 1. Right click on the downloaded file and click **Run as administrator**
 
 ## Install Ubuntu

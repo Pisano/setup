@@ -335,7 +335,7 @@ Let's check if you successfully installed everything.
 Quit all opened Terminal, open a new one and run the following commands:
 
 ```bash
-curl -Ls https://raw.githubusercontent.com/lewagon/setup/master/check.rb | ruby
+curl -Ls https://raw.githubusercontent.com/Pisano/setup/master/check.rb | ruby
 ```
 
 It should tell you if your workstation is ready :) If not, ask a teacher.
@@ -346,7 +346,7 @@ Now we'll wait for others to complete the setup as well. You can
 
 ## Slack
 
-[Download](https://itunes.apple.com/fr/app/slack/id803453959?mt=12) the Slack native app from the mac App Store, and sign in to `lewagon-alumni` organization.
+[Download](https://itunes.apple.com/fr/app/slack/id803453959?mt=12) the Slack native app from the mac App Store, and sign in to `pisano-summercamp` organization.
 
 Make sure you upload a picture there.
 
@@ -354,6 +354,6 @@ You can also sign in to Slack on your iPhone or Android device!
 
 The idea is that you'll have Slack open all day, so that you can share useful links / ask for help / decide where to go to lunch / etc.
 
-Enjoy your ride with Le Wagon :)
+Enjoy your Summer Camp at Pisano :)
 
 
