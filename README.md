@@ -1,6 +1,6 @@
-## New alumni
+## New setup
 
-Setup guides made for [Le Wagon](https://www.lewagon.com). Please choose your operating system (OS):
+Setup guides made for the [Pisano summer camp](http://kamp.pisano.co/). Please choose your operating system (OS):
 
 <table>
   <tr>
@@ -21,7 +21,3 @@ Setup guides made for [Le Wagon](https://www.lewagon.com). Please choose your op
     </td>
   </tr>
 </table>
-
-## Already done the FullStack program?
-
-Then jump to [this guide](second-setup/OSX.md).
