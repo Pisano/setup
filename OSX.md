@@ -346,7 +346,7 @@ Now we'll wait for others to complete the setup as well. You can
 
 ## Slack
 
-[Download](https://itunes.apple.com/fr/app/slack/id803453959?mt=12) the Slack native app from the mac App Store, and sign in to `pisano-summercamp` organization.
+[Download](https://itunes.apple.com/fr/app/slack/id803453959?mt=12) the Slack native app from the mac App Store, and sign in to `pisanosummercamp` organization.
 
 Make sure you upload a picture there.
 

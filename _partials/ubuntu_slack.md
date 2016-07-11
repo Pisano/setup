@@ -9,7 +9,7 @@ cd ~/Downloads
 sudo dpkg -i slack-desktop-*.deb
 ```
 
-Launch the app and sign in to `pisano-summercamp` organization.
+Launch the app and sign in to `pisanosummercamp` organization.
 
 Make sure you upload a picture there.
 

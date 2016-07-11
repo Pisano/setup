@@ -24,6 +24,7 @@ the Ubuntu iso into it. Once Ubuntu is installed, follow the rest of this tutori
 Open a Terminal and run these commands.
 
 ```bash
+sudo apt-get update
 sudo apt-get install -y virtualbox-guest-dkms
 sudo apt-get install -y virtualbox-guest-utils
 sudo apt-get install -y virtualbox-guest-x11
@@ -291,7 +292,7 @@ cd ~/Downloads
 sudo dpkg -i slack-desktop-*.deb
 ```
 
-Launch the app and sign in to `pisano-summercamp` organization.
+Launch the app and sign in to `pisanosummercamp` organization.
 
 Make sure you upload a picture there.
 
